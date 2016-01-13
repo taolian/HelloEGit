@@ -1,2 +1,2 @@
 # HelloEGit
-First Repository for the purpose of Learning to use EGit in Eclipse
+First repository for the purpose of learning to use EGit in Eclipse
